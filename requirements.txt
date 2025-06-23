@@ -13,8 +13,11 @@ langgraph
 unstructured[all-docs]
 pillow
 lxml
+chromadb
 poppler-utils
 langchain-groq
 langchain_astradb
 duckduckgo-search
 yfinance
+duckduckgo-search
+streamlit
